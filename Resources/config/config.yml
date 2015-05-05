@@ -1,0 +1,7 @@
+plugin:
+    has_options: false
+    resources:
+        -
+            class: Mouk\MoukiBundle\Entity\Mouk
+            name: mouk_mouk
+            is_exportable: false

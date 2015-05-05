@@ -1,0 +1,4 @@
+mouki_controller:
+    resource: "@MoukMoukiBundle/Controller/MoukiController.php"
+    type: annotation
+    prefix: /
